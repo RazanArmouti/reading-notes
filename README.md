@@ -7,4 +7,5 @@ Name of Read | Links
 ------------ | -------------
 1. Growth Article | [Press here](https://razanarmouti.github.io/reading-notes/growthMindset)
 2. Read-1 Article | [Press here](https://razanarmouti.github.io/reading-notes/Read-01)
+3. Read-2 Article | [Press here](https://razanarmouti.github.io/reading-notes/Read-02)
 
