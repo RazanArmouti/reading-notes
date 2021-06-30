@@ -1,5 +1,6 @@
 # Design web pages with CSS
-## 1. CSS
+**CSS**
+
 CSS (Cascading Style Sheets) allows you to create great-looking web pages.CSS is a language for specifying how documents are presented to users — how they are styled, laid out, etc.
 
 **There are three ways of inserting a style sheet:**
