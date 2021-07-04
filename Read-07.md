@@ -1,5 +1,5 @@
 # Programming with JavaScript
-**1. Expressions and operators: **
+**1. Expressions and operators:**
 + Assignment operators
 + Comparison operators
 + Arithmetic operators
