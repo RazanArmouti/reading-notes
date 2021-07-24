@@ -19,7 +19,7 @@ Name of Read | Links
 
 Name of Read | Links
 ------------ | -------------
- Read-1 Article | [Press here] (https://razanarmouti.github.io/reading-notes/Class-01) 
+ Read-1 Article | [Press here](https://razanarmouti.github.io/reading-notes/Class-01) 
  Read-2 Article | [Press here]
  Read-3 Article | [Press here]
  Read-4 Article | [Press here]
