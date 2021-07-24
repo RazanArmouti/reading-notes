@@ -1,4 +1,4 @@
-  # Read: 01 - Introductory HTML and JavaScript
+# Read: 01 - Introductory HTML and JavaScript
 ## ***HTML & CSS***
 **1. Introduction**
 
