@@ -16,6 +16,7 @@ the page (e.g. headings, subheadings, paragraphs).
 * They also provide semantic information (e.g. where
 emphasis should be placed, the definition of any
 acronyms used, when given text is a quotation).
+
 **2. Introducing CSS**
 * CSS allows you to create rules that specify how the content of
 an element should appear
@@ -34,6 +35,7 @@ property sets the choice of font, and the value arial
 specifies Arial as the preferred typeface.
 * CSS rules usually appear in a separate document,
 although they may appear within an HTML page.
+
 ## ***JAVASCRIPT & JQUERY***
 **1. Basic JavaScript Instructions**
 * It is best to keep JavaScript code in its own JavaScript
@@ -59,6 +61,7 @@ than one piece of related information.
 strings (text), and Boolean values (true or false).
 * Expressions evaluate into a single value.
 * Expressions rely on operators to calculate a value
+
 **2. Decisions and Loops” only up to the section on switch statements**
 * JavaScript also has several built-in objects such as
 String, Number, Math, and Date. Their properties and
@@ -72,9 +75,7 @@ are used to compare two operands.
 * a commit message shows whether a developer is a good collaborator.
 * Teams should first agree on a commit message convention that defines at least the following three things:
 1. Style. Markup syntax, wrap margins, grammar, capitalization, punctuation. Spell these things out, remove the guesswork, and make it all as simple as possible. The end result will be a remarkably consistent log that’s not only a pleasure to read but that actually does get read on a regular basis.
-
 2. Content. What kind of information should the body of the commit message (if any) contain? What should it not contain?
-
 3. Metadata. How should issue tracking IDs, pull request numbers, etc. be referenced?
 
 * The seven rules of a great Git commit message
