@@ -13,9 +13,7 @@ meaning of acronyms, and so on
 code view.
 * HTML elements are used to describe the structure of
 the page (e.g. headings, subheadings, paragraphs).
-* They also provide semantic information (e.g. where
-emphasis should be placed, the definition of any
-acronyms used, when given text is a quotation).
+* They also provide semantic information (e.g. where emphasis should be placed, the definition of any acronyms used, when given text is  quotation).
 
 **2. Introducing CSS**
 * CSS allows you to create rules that specify how the content of
@@ -74,16 +72,16 @@ are used to compare two operands.
 ## ***How to Write a Git Commit Message***
 * a commit message shows whether a developer is a good collaborator.
 * Teams should first agree on a commit message convention that defines at least the following three things:
-1. Style. Markup syntax, wrap margins, grammar, capitalization, punctuation. Spell these things out, remove the guesswork, and make it all as simple as possible. The end result will be a remarkably consistent log that’s not only a pleasure to read but that actually does get read on a regular basis.
-2. Content. What kind of information should the body of the commit message (if any) contain? What should it not contain?
-3. Metadata. How should issue tracking IDs, pull request numbers, etc. be referenced?
+    1. Style. Markup syntax, wrap margins, grammar, capitalization, punctuation. Spell these things out, remove the guesswork, and make it all as simple as possible. The end result will be a remarkably consistent log that’s not only a pleasure to read but that actually does get read on a regular basis.
+    2. Content. What kind of information should the body of the commit message (if any) contain? What should it not contain?
+    3. Metadata. How should issue tracking IDs, pull request numbers, etc. be referenced?
 
 * The seven rules of a great Git commit message
-1. Keep in mind: This has all been said before.
-2. Separate subject from body with a blank line
-3. Limit the subject line to 50 characters
-4. Capitalize the subject line
-5. Do not end the subject line with a period
-6. Use the imperative mood in the subject line
-7. Wrap the body at 72 characters
-8. Use the body to explain what and why vs. how
+    1. Keep in mind: This has all been said before.
+    2. Separate subject from body with a blank line
+    3. Limit the subject line to 50 characters
+    4. Capitalize the subject line
+    5. Do not end the subject line with a period
+    6. Use the imperative mood in the subject line
+    7. Wrap the body at 72 characters
+    8. Use the body to explain what and why vs. how
