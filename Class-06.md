@@ -1,5 +1,5 @@
 # Read: 06 - JS Object Literals; The DOM
-## ***Understanding The Problem Domain ***
+## ***Understanding The Problem Domain***
 You should able to learn that problem domain and because of it, Then you will able to write the code very easily as well.
 
 ## ***JAVASCRIPT & JQUERY***
