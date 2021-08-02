@@ -26,7 +26,7 @@ Name of Read | Links
  Read-5 Article | [Press here](https://razanarmouti.github.io/reading-notes/Class-05)
  Read-6 Article | [Press here](https://razanarmouti.github.io/reading-notes/Class-06)
  Read-7 Article | [Press here](https://razanarmouti.github.io/reading-notes/Class-07)
- Read-8 Article | [Press here]
+ Read-8 Article | [Press here](https://razanarmouti.github.io/reading-notes/Class-08)
  Read-9 Article | [Press here]
  Read-10 Article | [Press here]
  Read-11 Article | [Press here]
