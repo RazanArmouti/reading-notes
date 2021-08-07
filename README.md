@@ -29,7 +29,7 @@ Name of Read | Links
  Read-8 Article | [Press here](https://razanarmouti.github.io/reading-notes/Class-08)
  Read-9 Article | [Press here](https://razanarmouti.github.io/reading-notes/Class-09)
  Read-10 Article |[Press here](https://razanarmouti.github.io/reading-notes/Class-10)
- Read-11 Article | [Press here]
+ Read-11 Article |[Press here](https://razanarmouti.github.io/reading-notes/Class-11)
  Read-12 Article | [Press here]
  Read-13 Article | [Press here]
  Read-14 Article | [Press here]
