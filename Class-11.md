@@ -20,7 +20,7 @@ and what they do when they get there.
  
 ## ***Video and Audio APIs***
 
-HTML5 comes with elements for embedding rich media in documents — <video> and <audio> — which in turn come with their own APIs for controlling playback, seeking, etc. Part of the HTML5 spec, the HTMLMediaElement API provides features to allow you to control video and audio players programmatically — for example HTMLMediaElement.play(), HTMLMediaElement.pause(), etc. This interface is available to both <audio> and <video> elements, as the features you'll want to implement are nearly identical.
+HTML5 comes with elements for embedding rich media in documents — video and audio — which in turn come with their own APIs for controlling playback, seeking, etc. Part of the HTML5 spec, the HTMLMediaElement API provides features to allow you to control video and audio players programmatically — for example HTMLMediaElement.play(), HTMLMediaElement.pause(), etc. This interface is available to both audio and video elements, as the features you'll want to implement are nearly identical.
 
 ## ***JAVASCRIPT & JQUERY***
  **Methods**
