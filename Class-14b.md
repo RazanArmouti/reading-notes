@@ -2,6 +2,8 @@
 
 ## ***What Google Learned From Its Quest to Build the Perfect Team***
 
+![The Perfect Team](https://static01.nyt.com/images/2016/02/28/magazine/28mag-teams1/28mag-teams1-superJumbo.jpg?quality=90&auto=webp)
+
  * ‘Group norms.’’ Norms are the traditions, behavioral standards and unwritten rules that govern how we function when we gather
  * The concept of psychological safety in academic papers, it was as if everything suddenly fell into place.
  * As long as everyone got a chance to talk, the team did well. But if only one person or a small group spoke all the time, the collective intelligence declined.
