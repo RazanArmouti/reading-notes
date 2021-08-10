@@ -32,7 +32,8 @@ Name of Read | Links
  Read-11 Article |[Press here](https://razanarmouti.github.io/reading-notes/Class-11)
  Read-12 Article |[Press here](https://razanarmouti.github.io/reading-notes/Class-12)
  Read-13 Article |[Press here](https://razanarmouti.github.io/reading-notes/Class-13)
- Read-14 Article | [Press here]
+ Read-14a Article |[Press here](https://razanarmouti.github.io/reading-notes/Class-14a)
+ Read-14b Article |[Press here](https://razanarmouti.github.io/reading-notes/Class-14b)
  Read-15 Article | [Press here]
 
 
