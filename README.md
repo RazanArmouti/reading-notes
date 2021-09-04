@@ -15,8 +15,10 @@ Name of Read | Links
  Read-6 Article | [Press here](https://razanarmouti.github.io/reading-notes/Read-06)
  Read-7 Article | [Press here](https://razanarmouti.github.io/reading-notes/Read-07)
 
- ## **Code 201 - Foundations of Software Development:**
 
+
+ ## **Code 201 - Foundations of Software Development:**
+ 
 Name of Read | Links
 ------------ | -------------
  Read-1 Article | [Press here](https://razanarmouti.github.io/reading-notes/Class-01) 
@@ -35,5 +37,10 @@ Name of Read | Links
  Read-14a Article |[Press here](https://razanarmouti.github.io/reading-notes/Class-14a)
  Read-14b Article |[Press here](https://razanarmouti.github.io/reading-notes/Class-14b)
 
+ 
+
  ## **Code 301 - Intermediate Software Development:**
+
+
+
  ## **Code 401 - Advanced Software Development:**
