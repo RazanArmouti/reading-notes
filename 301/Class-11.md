@@ -1,13 +1,13 @@
 # Readings: Mongo and Mongoose
 ## ***nosql vs sql***
 **1. Fill in the chart below with five differences between SQL and NoSQL databases:**  
-SQL          | NoSQL
------------- | -------------
- SQL databases are table basesd where we can store the data in tables.each table contains numbers of rows | NoSQL databases are document based where we can store the datd as key value pairs
- SQL databases are vertically scalable which means if we need to increase the performance we can upgrade the server hardware(CPU,RAM,etc...) | NoSQL databases are horzentally scalable which means if we need to increase the performance we can increase the numbers of servers
- SQL databases have predefined schema | NoSQL databases have dynamic schema
- Excellent support is available from vendors of SQL databases | where as in NoSQL databases developers should depend on community support
- In SQL databases there is a relations between tables | In NoSQl there is not a relation concept at all because the data is stored as unstructured data
+| SQL      | NoSQL |
+| ----------- | ----------- |
+| SQL databases are table basesd where we can store the data in tables.each table contains numbers of rows       | NoSQL databases are document based where we can store the datd as key value pairs       |
+| SQL databases are vertically scalable which means if we need to increase the performance we can upgrade the server hardware(CPU,RAM,etc...)   | NoSQL databases are horzentally scalable which means if we need to increase the performance we can increase the numbers of servers        |
+| SQL databases have predefined schema      | NoSQL databases have dynamic schema       |
+| Excellent support is available from vendors of SQL databases    | where as in NoSQL databases developers should depend on community support        |
+| In SQL databases there is a relations between tables      | In NoSQl there is not a relation concept at all because the data is stored as unstructured data       |
 
 **2. What kind of data is a good fit for an SQL database?** 
  If the data is highly structured and associations among the program entities are clearly defined.
