@@ -52,5 +52,7 @@ Name of Read | Links
  Read-11 Article | [Press here](https://razanarmouti.github.io/reading-notes/301/Class-11)
  Read-12 Article | [Press here](https://razanarmouti.github.io/reading-notes/301/Class-12)
  Read-13 Article | [Press here](https://razanarmouti.github.io/reading-notes/301/Class-13)
+ Read-14-A Article | [Press here](https://razanarmouti.github.io/reading-notes/301/Class-14-A)
+ Read-14-B Article | [Press here](https://razanarmouti.github.io/reading-notes/301/Class-14-B)
 
 ## **Code 401 - Advanced Software Development:**
