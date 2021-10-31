@@ -61,3 +61,4 @@ Name of Read | Links
 ------------ | -------------
  Read-1 Article | [Press here](https://razanarmouti.github.io/reading-notes/401/Class-01) 
  Read-2 Article | [Press here](https://razanarmouti.github.io/reading-notes/401/Class-02) 
+ Read-3 Article | [Press here](https://razanarmouti.github.io/reading-notes/401/Class-03) 
