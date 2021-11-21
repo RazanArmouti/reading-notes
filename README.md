@@ -75,3 +75,4 @@ Name of Read | Links
  Read-14 Article | [Press here](https://razanarmouti.github.io/reading-notes/401/Class-14)
  Read-15 Article | [Press here](https://razanarmouti.github.io/reading-notes/401/Class-15)
  Read-16 Article | [Press here](https://razanarmouti.github.io/reading-notes/401/Class-16)
+ Read-17 Article | [Press here](https://razanarmouti.github.io/reading-notes/401/Class-17)
