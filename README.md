@@ -87,5 +87,8 @@ Name of Read | Links
  Read-25 Article | [Press here](https://razanarmouti.github.io/reading-notes/401/Class-25)
  Read-26 Article | [Press here](https://razanarmouti.github.io/reading-notes/401/Class-26)
  Read-27 Article | [Press here](https://razanarmouti.github.io/reading-notes/401/Class-27)
+ Read-28 Article | [Press here](https://razanarmouti.github.io/reading-notes/401/Class-28)
+ Read-29 Article | [Press here](https://razanarmouti.github.io/reading-notes/401/Class-29)
+
 
 
