@@ -90,6 +90,7 @@ Name of Read | Links
  Read-28 Article | [Press here](https://razanarmouti.github.io/reading-notes/401/Class-28)
  Read-29 Article | [Press here](https://razanarmouti.github.io/reading-notes/401/Class-29)
  Read-30 Article | [Press here](https://razanarmouti.github.io/reading-notes/401/Class-30)
+ Read-31 Article | [Press here](https://razanarmouti.github.io/reading-notes/401/Class-31)
 
 
 
